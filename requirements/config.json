@@ -1,0 +1,18 @@
+{
+    "global": [
+            {
+            "company": "Cool web hosting company LTD",
+            "domain": "yoursite.com"
+            }
+    ],
+    "initservers": [ 
+        {
+            "id": 0,
+            "name": "Genesis",
+            "ip": "1.1.1.1",
+            "sudoer": "root",
+            "sudoerpassword": "rootpassword123!",
+            "purpose": "CORE"
+        }
+    ]
+}

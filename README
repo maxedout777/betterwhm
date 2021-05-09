@@ -1,0 +1,5 @@
+Support 'purposes' (categories):
+'CORE', 'VPS'
+
+* Will allow servers to support more than once category soon.
+* 'CORE' is required to be id 0 and is where backend is hosted for the betterwhm system.
